@@ -4,14 +4,12 @@ MS in Computer Science @ DIMES-University of Calabria, CS, IT
 
 # Overview
 > * Lecture 1 - Part 1) Data Handling with Pandas -  Part 2) Data Visualization with matplotlib and seaborn
-> * Lecture 2 - A gentle introduction to scikit-learn
-> * Lecture 3 - A classification problem
-<!-- > * Lecture 4 - Recommendation Systems and Anomaly Detection - (Scrivere Note sul sito)  -->
-<!-- > * Lecture 5 - Dealing with temporal data - (Scrivere Notebook)  --> 
-<!-- > * Lecture 6 - Debugging - (Scrivere Note sul Sito)  -->
-<!-- > * Dimensionality reduction - (Scrivere note sul sito + Notebook) -->
-<!-- > * Lecture 7 - Ensemble Learning and Clustering -->
-<!-- > * Lecture 8 - Project Example -->
+> * Lecture 2-3 - A gentle introduction to scikit-learn
+> * Lecture 4 - A classification problem
+> * Lecture 5 -  Anomaly Detection 
+> * Lecture 6 -  Clustering
+> * Lecture 7 - Ensemble Learning and Clustering 
+<!-- > * Lecture 8 - Debugging -->
     
 
 
