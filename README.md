@@ -9,7 +9,7 @@ MS in Computer Science @ DIMES-University of Calabria, CS, IT
 > * Lecture 5 -  Anomaly Detection 
 > * Lecture 6 -  Clustering
 > * Lecture 7 - Ensemble Learning and Clustering 
-<!-- > * Lecture 8 - Debugging -->
+> * Lecture 8 - Debugging
     
 
 
